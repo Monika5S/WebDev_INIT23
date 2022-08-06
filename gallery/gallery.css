@@ -6,3 +6,10 @@ button{
   padding:5%;
   color:midnightblue;
 }
+
+img{
+  border-radius:20em;
+  background-color: white;
+  margin:2% 30%;
+  width:30%;
+}
